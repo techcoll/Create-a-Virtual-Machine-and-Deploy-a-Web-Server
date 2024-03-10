@@ -36,3 +36,17 @@ I created a Virtual Machine in Azure to deploy a web server, specifically a Next
 *Ref 4: Protect a Subnet using a Network Security Group*
 ![NSG B 3](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/6f4ed54e-33b1-4739-8d7e-e53d31c76708)
 ![network security group 3](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/908672f2-7d07-4f4b-a90d-9e873e0002a4)
+
+*Ref 5:Create and Deploy Bastion to connect to a Virtual Machine*
+This will helip us to connect to our virtual Machine.
+![BASTION deploy 4](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/5915945a-9f9b-420f-b465-745219d7c2c0)
+![bastion 4b](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/14c5640b-23b1-4910-884b-2d84066a0407)
+
+*Ref 6: Create an Ubutu server virtual machine*
+
+*Ref 7: Install Nextcloud by connecting via SSH using Bastion*
+![installing nextcloud](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/4b82ae4c-275a-4b2b-b4cf-e92a5d188ed2)
+![install nextcloud by ssh](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/969ec0f8-4079-4e2d-8003-4c678595dd90)
+
+*Ref 8: Publish an IP(Accessing the Nextcloud Instance on the web)*
+.....
