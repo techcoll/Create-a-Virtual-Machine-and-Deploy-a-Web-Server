@@ -29,4 +29,5 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-*Ref 1: Network Diagram*
+*Ref 1: Created Microsoft Azure account in https://portal.azure.com/*
+![microsoft azure portal](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/c9acdf19-8883-4e48-a53f-bce1497b3e97)
