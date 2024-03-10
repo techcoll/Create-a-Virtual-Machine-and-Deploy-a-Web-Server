@@ -23,11 +23,16 @@ I created a Virtual Machine in Azure to deploy a web server, specifically a Next
 - Azure Resource Manager (ARM) Templates: ARM templates are JSON files that define the resources you want to deploy in Azure. 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Created Microsoft Azure account in https://portal.azure.com/*
+*Ref 1: Create Microsoft Azure account in https://portal.azure.com/*
 ![microsoft azure portal](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/c9acdf19-8883-4e48-a53f-bce1497b3e97)
+
+*Ref 2: Create a Resource Group inside the Azure Portal*
+![reource group2](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/76911369-dbcb-4c98-8a9f-42e1d8d3238e)
+
+*Ref 3: Create a Virtual Network and a Subnet*
+![Virtual network b](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/2cf545f9-5060-4d1c-b71e-ff1030742956)
+
+*Ref 4: Protect a Subnet using a Network Security Group*
+![NSG B 3](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/6f4ed54e-33b1-4739-8d7e-e53d31c76708)
+![network security group 3](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/908672f2-7d07-4f4b-a90d-9e873e0002a4)
