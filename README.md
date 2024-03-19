@@ -43,10 +43,17 @@ This will helip us to connect to our virtual Machine.
 ![bastion 4b](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/14c5640b-23b1-4910-884b-2d84066a0407)
 
 *Ref 6: Create an Ubutu server virtual machine*
+![image](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/c93d5718-ec71-49ba-abef-593a41ccbe66)
 
 *Ref 7: Install Nextcloud by connecting via SSH using Bastion*
 ![installing nextcloud](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/4b82ae4c-275a-4b2b-b4cf-e92a5d188ed2)
 ![install nextcloud by ssh](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/969ec0f8-4079-4e2d-8003-4c678595dd90)
 
 *Ref 8: Publish an IP(Accessing the Nextcloud Instance on the web)*
-.....
+![image](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/3b02781e-bc2e-4656-90d8-0d730a01d986)
+
+*Ref 9: Create a DNS Label*
+![9a](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/bf42d772-79b3-4d55-b9ad-50f6dba6d77b)
+
+![image](https://github.com/techcoll/Create-a-Virtual-Machine-and-Deploy-a-Web-Server/assets/107801057/73df1dab-7088-4cfa-9f21-8b7c26526e79)
+
